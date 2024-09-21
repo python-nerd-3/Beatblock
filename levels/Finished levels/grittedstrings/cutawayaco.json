@@ -1,0 +1,34 @@
+{
+  "width": 360,
+  "height": 150,
+  "fps": 2.4667,
+  "frames": 3,
+  "states": [
+    {
+      "name": "neutral",
+      "frames": [
+        0
+      ],
+      "fps": 2.4667,
+      "loop": true
+    },
+    {
+      "name": "shuteye",
+      "frames": [
+        0,
+        1
+      ],
+      "fps": 2.4667,
+      "loop": true
+    },
+    {
+      "name": "victory",
+      "frames": [
+        0,
+        2
+      ],
+      "fps": 2.4667,
+      "loop": true
+    }
+  ]
+}

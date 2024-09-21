@@ -1,0 +1,1 @@
+[{"duration":2,"order":0,"ease":"outExpo","value":0,"time":0,"start":40,"angle":360,"var":"vfx.hglitch.strength","type":"ease"},{"id":"logo","sx":1.25,"sy":1.25,"sprite":"logo.png","x":300,"y":100,"time":0,"oy":32,"ox":200,"type":"deco","angle":22.5,"order":0},{"id":"logo","duration":2,"sy":1,"ease":"outExpo","time":0,"sx":1,"type":"deco","angle":45,"order":1}]

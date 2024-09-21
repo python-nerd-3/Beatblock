@@ -1,0 +1,16 @@
+{
+  "width": 600,
+  "height": 360,
+  "fps": 3,
+  "frames": 2,
+  "states": [
+    {
+      "name": "toggle",
+      "frames": [
+        0,1
+      ],
+      "fps": 3,
+      "loop": false
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+	"options": {
+		"language": "en",
+		"audio": {
+			"musicvolume": 7,
+			"sfxvolume": 7,
+			"hitsounds": true,
+			"playMenuMusic": true,
+		},
+		"graphics": {
+			"fullscreen": false,
+			"displayMode": "windowed",
+			"windowScale": 2,
+			"hudStyle": "expanded"
+		},
+		"game": {
+			"inputOffset": 30,
+			"circleSnap": false,
+			"forceMouseKeyboard": false,
+			"lockMouseToWindow": false,
+			"cursorMode": "default"
+		},
+		"accessibility": {
+			"vfx": "full",
+			"taps": "default",
+			"sides": "default",
+		},
+		"bindings": {
+			"keyboardGameplay":{
+				"tap": [],
+				"pause": [],
+				"restart": []
+			},
+			"keyboardMenu":{
+				"select": [],
+				"back": [],
+				"menu_up": [],
+				"menu_left": [],
+				"menu_right": [],
+				"menu_down": []
+			},
+			"keyboardEditor":{
+				"play": [],
+				"move_up": [],
+				"move_left": [],
+				"move_right": [],
+				"move_down": [],
+				"modifier": [],
+				"save": [],
+				"delete": []
+			},
+			"controllerBinds":{
+				"select": [],
+				"back": [],
+				"menu_up": [],
+				"menu_left": [],
+				"menu_right": [],
+				"menu_down": [],
+				"tap": [],
+				"pause": [],
+				"restart": []
+			}
+		}
+	},
+	"timesbooted": 0,
+	"seenEditorWarning": false,
+	"seenInverseTutorial": true,
+	"seenIntroWarnings":false,
+	"bindingsVersion": 1
+}

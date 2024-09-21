@@ -1,0 +1,718 @@
+{
+    "playdemolevels": {
+        "en": "Play Demo Levels",
+        "owo": "Pway demo levews"
+    },
+    "customs": {
+        "en": "Custom Levels",
+        "jp": "Japanese for custom levels",
+        "owo": "Cuwstom levews"
+    },
+    "settings": {
+        "en": "Settings",
+        "jp": "Japanese for settings",
+        "owo": "Settings UwU"
+    },
+    "credits": {
+        "en": "Credits",
+        "owo": "Cwedits"
+    },
+    "exitgame": {
+        "en": "Exit Game",
+        "owo": "please leave immediately"
+    },
+    "devLevelSelect": {
+        "en": "Developer Level Select",
+        "owo": "Devewopew levew sewect"
+    },
+    "discordLink": {
+        "en": "Join our Discord!",
+        "owo": "Join ouww discowd! OwO"
+    },
+    "twitterPlug": {
+        "en": "Follow us on Twitter! @BeatblockGame",
+        "owo": "Fowwow uws on twittew! @beatblockgame"
+    },
+    "returnToMenuPrompt_keyboard": {
+        "en": "(press escape to return to menu)",
+        "owo": "(pwess escape to wetuwwn to menuw)"
+    },
+    "returnToMenuPrompt_controller": {
+        "en": "(press start to return to menu)",
+        "owo": "(pwess stawt to wetuwwn to menuw)"
+    },
+    "optionsHint": {
+        "en": "(Left and Right to change values)",
+        "owo": "(left and right to change vawuwes)"
+    },
+    "optionsEnabled": {
+        "en": ": Enabled",
+        "owo": ": enabwed"
+    },
+    "optionsDisabled": {
+        "en": ": Disabled",
+        "owo": ": disabwed"
+    },
+    "optionsHitsounds": {
+        "en": "Hitsounds",
+        "owo": "Hitsouwnds"
+    },
+    "optionsInputOffset": {
+        "en": "Input offset: @@1@@ ms",
+        "owo": "Inpuwt offset: @@1@@ ms"
+    },
+    "optionsCalibrate": {
+        "en": "Calibrate",
+        "owo": "Cawibwate"
+    },
+    "optionsSfxVolume": {
+        "en": "SFX volume: @@1@@",
+        "owo": "Sfx vowuwme: @@1@@"
+    },
+    "optionsMusicVolume": {
+        "en": "Music volume: @@1@@",
+        "owo": "Muwsic vowuwme: @@1@@"
+    },
+    "optionsFullscreen": {
+        "en": "Fullscreen",
+        "owo": "Fuwwwscween"
+    },
+    "optionsWindowScale": {
+        "en": "Window scale: @@1@@x",
+        "owo": "Window scawe: @@1@@x"
+    },
+    "optionsPlayMenuMusic": {
+        "en": "Play menu music",
+        "owo": "Plway menu muwusic"
+    },
+    "optionsGraphics": {
+        "en": "Graphics",
+        "owo": "please leave immediately"
+    },
+    "optionsAudio": {
+        "en": "Audio",
+        "owo": "Auwdio"
+    },
+    "optionsGameplay": {
+        "en": "Gameplay",
+        "owo": "Gamepway"
+    },
+    "optionsMouseSettings": {
+        "en": "Mouse Settings",
+        "owo": "Mouwse settings"
+    },
+    "optionsForceMouseKeyboard": {
+        "en": "Force Mouse+Keyboard",
+        "owo": "Fowce mouwse+keyboawd"
+    },
+    "optionsCircleSnap": {
+        "en": "Circle Snap",
+        "owo": "Ciwcwe snap"
+    },
+    "optionsLockToWindow": {
+        "en": "Lock Mouse to Window",
+        "owo": "Lock mouwse to window"
+    },
+    "optionsCursorMode": {
+        "en": "In-game Cursor mode: @@1@@",
+        "owo": "In-game cuwwsow mode: @@1@@"
+    },
+    "enumCursorDefault": {
+        "en": "Default",
+        "owo": "Defauwwt"
+    },
+    "enumCursorLarge": {
+        "en": "Large",
+        "owo": "Lawge"
+    },
+    "enumCursorInvert": {
+        "en": "Invert",
+        "owo": "Invewt"
+    },
+    "optionsHUD": {
+        "en": "HUD Mode: @@1@@",
+        "owo": "Hud mode: @@1@@"
+    },
+    "enumHUDDefault": {
+        "en": "Default",
+        "owo": "Defauwwt"
+    },
+    "enumHUDExpanded": {
+        "en": "Expanded",
+        "owo": "Expanded"
+    },
+    "enumHUDExpandedPlus": {
+        "en": "Expanded (w/ Miss & Barely display)",
+        "owo": "Expanded (w/ Miss & Barely display) (owo)"
+    },
+    "enumHUDNone": {
+        "en": "None",
+        "owo": "None"
+    },
+    "optionsAccessibility": {
+        "en": "Accessibility",
+        "owo": "Accessibiwity"
+    },
+    "optionsVFX": {
+        "en": "VFX: @@1@@",
+        "owo": "Vfx: @@1@@"
+    },
+    "optionsVFXFull": {
+        "en": "Full",
+        "owo": "Fuwww"
+    },
+    "optionsVFXDecreased": {
+        "en": "Decreased",
+        "owo": "decweased"
+    },
+    "optionsVFXNone": {
+        "en": "None",
+        "owo": "None"
+    },
+    "optionsTaps": {
+        "en": "Taps: @@1@@",
+        "owo": "Taps: @@1@@"
+    },
+    "optionsSides": {
+        "en": "Sides: @@1@@",
+        "owo": "Sides: @@1@@"
+    },
+    "optionsNotesDefault": {
+        "en": "Default",
+        "owo": "Defauwwt"
+    },
+    "optionsNotesLenient": {
+        "en": "Lenient",
+        "owo": "Wenient"
+    },
+    "optionsNotesAuto": {
+        "en": "Automatic",
+        "owo": "Auwtomatic"
+    },
+    "optionsDisplayMode": {
+        "en": "Display Mode: @@1@@",
+        "owo": "Dispway mode: @@1@@"
+    },
+    "enumWindowed": {
+        "en": "Windowed",
+        "owo": "WindOwOed"
+    },
+    "enumBorderless": {
+        "en": "Borderless Windowed",
+        "owo": "Bowdewwess windOwOed"
+    },
+    "enumFullscreen": {
+        "en": "Fullscreen",
+        "owo": "Fuwwwscween"
+    },
+    "optionsKeybinds": {
+        "en": "Controls",
+        "owo": "Controls"
+    },
+    "optionsKeybindsKeyboardGameplay": {
+        "en": "Gameplay Controls (Keyboard)",
+        "owo": "Gameplay Controls (Keyboard)"
+    },
+    "optionsKeybindsKeyboardMenu": {
+        "en": "Menu Controls (Keyboard)",
+        "owo": "Menu Controls (Keyboard)"
+    },
+    "optionsKeybindsKeyboardEditor": {
+        "en": "Editor Controls (Keyboard)",
+        "owo": "Editor Controls (Keyboard)"
+    },
+    "optionsKeybindsControllerBinds": {
+        "en": "Controller Controls",
+        "owo": "Controller Controls"
+    },
+    "back": {
+        "en": "Back",
+        "owo": "Back"
+    },
+    "quitToMenu": {
+        "en": "Quit to menu",
+        "owo": "Quwit to menuw"
+    },
+    "optionsTestEnum": {
+        "en": "Test enum: @@1@@"
+    },
+    "enumOne": {
+        "en": "one!"
+    },
+    "enumTwo": {
+        "en": "two!"
+    },
+    "enumThree": {
+        "en": "three!"
+    },
+    "optionsLanguage": {
+        "en": "Language",
+        "owo": "Languwage"
+    },
+    "lang_en": {
+        "en": "English",
+        "owo": "Engwish"
+    },
+    "lang_jp": {
+        "en": "Japanese",
+        "owo": "Japanese"
+    },
+    "lang_zh_hant": {
+        "en": "Traditional Chinese"
+    },
+    "lang_zh_cn": {
+        "en": "Simplified Chinese"
+    },
+    "lang_owo": {
+        "en": "OwO",
+        "owo": "OwO"
+    },
+    "unplayed": {
+        "en": "Unplayed!",
+        "owo": "Unpwayed! OwO"
+    },
+    "play": {
+        "en": "Play",
+        "owo": "Pway"
+    },
+    "edit": {
+        "en": "Edit",
+        "owo": "Edit"
+    },
+    "options": {
+        "en": "Options",
+        "owo": "Options"
+    },
+    "createlevel": {
+        "en": "Create level",
+        "owo": "Cweate wevew"
+    },
+    "openCustomsFolder": {
+        "en": "Open folder",
+        "owo": "Open fowdew"
+    },
+    "putLevelsInHere": {
+        "en": "Put levels in here!",
+        "owo": "Puwt wevews in hewe! OwO"
+    },
+    "bpm": {
+        "en": "@@1@@ BPM",
+        "owo": "@@1@@ BPM UwU"
+    },
+    "ratemod": {
+        "en": "Game speed: @@1@@",
+        "owo": "Game spweed: @@1@@"
+    },
+    "noPRankMessage": {
+        "en": "Ineligible for P-Ranks",
+        "owo": "No Prank... ;w;"
+    },
+    "optionsMenuHeader": {
+        "en": "Options",
+        "owo": "Owoptions"
+    },
+    "restartOn": {
+        "en": "Restart on: @@1@@",
+        "owo": "Restart owon: @@1@@"
+    },
+    "optionsRestartOnMiss": {
+        "en": "Miss",
+        "owo": "Miss"
+    },
+    "optionsRestartOnBarely": {
+        "en": "Miss / Barely",
+        "owo": "Miss / Barely"
+    },
+    "optionsNoBarelies": {
+        "en": "No Barelies",
+        "owo": "No Barelies"
+    },
+    "resultsRateDisplay": {
+        "en": "@@1@@x speed",
+        "owo": "@@1@@x speed"
+    },
+    "resultsAccessibilityLenient": {
+        "en": "Lenient",
+        "owo": "Lenient"
+    },
+    "resultsAccessibilityAutomatic": {
+        "en": "Automatic",
+        "owo": "Automatic"
+    },
+    "resultsAccessibilityVFXLow": {
+        "en": "Decreased VFX",
+        "owo": "Decreased VFX"
+    },
+    "resultsAccessibilityVFXNone": {
+        "en": "No VFX",
+        "owo": "No VFX"
+    },
+    "resultsAccessibilityTaps": {
+        "en": "Tap Notes",
+        "owo": "Tap Notes"
+    },
+    "resultsAccessibilitySides": {
+        "en": "Side Notes",
+        "owo": "Side Notes"
+    },
+    "optionsMenuDescription1": {
+        "en": "Multiplier to overall game speed. Chart will become faster or slower.",
+        "owo": "Multiplier to overall game speed. Chart will become faster or slower."
+    },
+    "optionsMenuDescription2": {
+        "en": "Reduces intensity of game visual effects, or removes visual effects entirely.",
+        "owo": "Reduces intensity of game visual effects, or removes visual effects entirely."
+    },
+    "optionsMenuDescription3": {
+        "en": "Makes tap notes more lenient, or allows you to hit tap notes automatically.",
+        "owo": "Makes tap notes more lenient, or allows you to hit tap notes automatically."
+    },
+    "optionsMenuDescription4": {
+        "en": "Makes side notes more lenient, or allows you to hit side notes automatically.",
+        "owo": "Makes side notes more lenient, or allows you to hit side notes automatically."
+    },
+    "optionsMenuDescription5": {
+        "en": "Automatically restarts the level upon missing or hitting a barely.",
+        "owo": "Automatically restarts the level upon missing or hitting a barely."
+    },
+    "optionsMenuDescription6": {
+        "en": "Removes the ability to obtain Barely judgements, causing a Miss in their place instead.",
+        "owo": "Removes the ability to obtain Barely judgements, causing a Miss in their place instead."
+    },
+    "editorWarning": {
+        "en": "Hello, thanks for checking out the level editor!\nWhile its usable to create levels, it is currently not very user friendly, and is prone to glitches. We plan to smooth it out over the course of development. Please consider the level editor in its current state experimental.\nThat being said, have fun, and make sure to save often!\n\n(Press enter to go to editor, or escape to quit)",
+        "owo": "hewwo, thanks fow checking ouwt the wevew editow! OwO\nwhiwe its uwsabwe to cweate wevews, it is cuwwwentwy not vewy uwsew fwiendwy, and is pwone to gwitches. We pwan to smooth it ouwt ovew the couwwse of devewopment. Pwease considew the wevew editow in its cuwwwent state expewimentaw.\n that being said, have fuwn, and make suwwe to save often! OwO\n\n(pwess entew to go to editow, ow escape to quwit)"
+    },
+    "errorMessage": {
+        "en": "Something broke while playing a level! Here are the details:\n@@1@@",
+        "owo": "something bwoke whiwe pwaying a wevew! OwO hewe awe the detaiws:\n@@1@@"
+    },
+    "tutorial_1": {
+        "en": "So you want to block beats?\nIt's going to take an awful lot of practice.",
+        "owo": "so u want to bwock beats? UwU\nit's going to take an awfuww wot of pwactice."
+    },
+    "tutorial_2_mouse": {
+        "en": "Let's start with the basics.\nFor Blocks and Holds, simply move your paddle with the mouse to hit them.",
+        "owo": "let's stawt with the basics.\n fow bwocks and howds, simpwy move uw paddwe with the mouwse to hit them."
+    },
+    "tutorial_2_controller": {
+        "en": "Let's start with the basics.\nFor Blocks and Holds, simply move your paddle with the analog stick to hit them.",
+        "owo": "let's stawt with the basics.\n fow bwocks and howds, simpwy move uw paddwe with the anawog stick to hit them."
+    },
+    "tutorial_3": {
+        "en": "Give it a go!",
+        "owo": "Give it a go! OwO"
+    },
+    "tutorial_4": {
+        "en": "Not bad, but let's face it, that was easy.",
+        "owo": "Not bad, buwt wet's face it, that was easy."
+    },
+    "tutorial_5": {
+        "en": "Time for Taps.\nThey can show up either on their own, or attatched to other notes.",
+        "owo": "time fow taps.\n they can show uwp eithew on theiw own, ow attatched to othew notes."
+    },
+    "tutorial_6_mouse": {
+        "en": "To hit them, press Z or X when they reach your paddle.\nYou can also click with the mouse.",
+        "owo": "to hit them, pwess z ow x when they weach uw paddwe.\n youw can awso cwick with the mouwse."
+    },
+    "tutorial_6_controller": {
+        "en": "To hit them, press (A) or (X) when they reach your paddle.",
+        "owo": "To hit them, pwess (a) ow (x) when they weach uw paddwe."
+    },
+    "tutorial_7": {
+        "en": "Why don't we take this to the next level?",
+        "owo": "Why don't we take this to the next wevew? OwO"
+    },
+    "tutorial_8": {
+        "en": "I have to concede, that was impressive! Next are Mines and Sides.",
+        "owo": "I have to concede, that was impwessive! OwO next awe mines and sides."
+    },
+    "tutorial_9": {
+        "en": "Mines just need to be avoided,\nand Sides need to be slammed into from the side.",
+        "owo": "mines juwst need to be avoided,\nand sides need to be swammed into fwom the side."
+    },
+    "tutorial_10": {
+        "en": "For Sides, timing is key.\nDon't fall apart now!",
+        "owo": "fow sides, timing is key.\n don't faww apawt now!"
+    },
+    "inverses_1": {
+        "en": "INVERSES AHEAD!",
+        "owo": "invewses ahead! OwO"
+    },
+    "inverses_2": {
+        "en": "hit these with the back of your paddle instead of the front!",
+        "owo": "hit these with the back of uw paddwe instead of the fwont! OwO"
+    },
+    "pressToContinue_mouse": {
+        "en": "Press Z to continue",
+        "owo": "pwess z to continuwe"
+    },
+    "pressToContinue_controller": {
+        "en": "Press (A) to continue",
+        "owo": "pwess (a) to continuwe"
+    },
+    "calibration_1_mouse": {
+        "en": "Press Z to the beat.",
+        "owo": "Pwess z to the beat. OwO"
+    },
+    "calibration_1_controller": {
+        "en": "Press (A) to the beat.",
+        "owo": "Pwess (A) to the beat. OwO"
+    },
+    "calibration_2": {
+        "en": "Calibration complete!",
+        "owo": "Cawibwation compwete! UwU"
+    },
+    "calibration_3": {
+        "en": "Change calibration from @@1@@ to @@2@@?",
+        "owo": "Change cawibwation fwom @@1@@ to @@2@@? UwU"
+    },
+    "calibration_4": {
+        "en": "Change to @@1@@",
+        "owo": "Change to @@1@@"
+    },
+    "calibration_5": {
+        "en": "Keep as @@1@@",
+        "owo": "Keep as @@1@@"
+    },
+    "averageOffset": {
+        "en": "Average offset: @@1@@",
+        "owo": "avewage offset: @@1@@"
+    },
+    "combo": {
+        "en": " combo!",
+        "owo": " combOwO!"
+    },
+    "comboPerfect": {
+        "en": " COMBO!!",
+        "owo": " COMBOwO!!"
+    },
+    "comboExpanded": {
+        "en": "combo",
+        "owo": "combowo"
+    },
+    "accuracyExpanded": {
+        "en": "accuracy",
+        "owo": "accuwwacy"
+    },
+    "accuracyBarelySingular": {
+        "en": " barely",
+        "owo": " bawewy"
+    },
+    "accuracyBarelyPlural": {
+        "en": " barelies",
+        "owo": " bawewies"
+    },
+    "accuracyMissSingular": {
+        "en": " miss",
+        "owo": " miss ;-;"
+    },
+    "accuracyMissPlural": {
+        "en": " misses",
+        "owo": " misses ;-;"
+    },
+    "difficultySpecial": {
+        "en": "Special",
+        "owo": "Speciaw"
+    },
+    "difficultyEasy": {
+        "en": "Easy",
+        "owo": "Easy"
+    },
+    "difficultyHard": {
+        "en": "Hard",
+        "owo": "Hard"
+    },
+    "difficultyChallenge": {
+        "en": "Challenge",
+        "owo": "Chawwenge"
+    },
+    "difficultyExpert": {
+        "en": "Apocrypha",
+        "owo": "Apowocrypha"
+    },
+    "pauseHeader": {
+        "en": "- PAUSED -",
+        "owo": "- PAWSED -"
+    },
+    "pauseRetry": {
+        "en": "Retry",
+        "owo": "Retwy"
+    },
+    "pauseQuit": {
+        "en": "Quit",
+        "owo": "Quit"
+    },
+    "grade": {
+        "en": "Grade:",
+        "owo": "gwade:"
+    },
+    "misses": {
+        "en": "Misses: @@1@@",
+        "owo": "misses: @@1@@"
+    },
+    "barelies": {
+        "en": "Barelies: @@1@@",
+        "owo": "bawewies: @@1@@"
+    },
+    "continue": {
+        "en": "Continue",
+        "owo": "continuwe"
+    },
+    "retry": {
+        "en": "Retry",
+        "owo": "retwy"
+    },
+    "levelTutorial": {
+        "en": "Tutorial",
+        "owo": "Tuwtowiaw"
+    },
+    "levelTutorialDescription": {
+        "en": "If you're playing for the first time, or just need a refresher on the basics, start here!",
+        "owo": "i hate you"
+    },
+    "levelGrittedStringsDescription": {
+        "en": "Watch the swaps between mines and blocks, and this duel is yours.\n\nMechanics used: Mines, Grilled Cheese",
+        "owo": "please leave"
+    },
+    "levelSoStressedDescription": {
+        "en": "The catgirl died in a car accident",
+        "owo": "i hate you"
+    },
+    "levelCodeRemixDescription": {
+        "en": "Song originally from lebron james studio.\n\nMechanics used: Sides",
+        "owo": "get out"
+    },
+    "levelLawrenceDescription": {
+        "en": "FIRE IN THE HOLE!!!!",
+        "owo": "👎"
+    },
+    "levelILOVEYOUDescription": {
+        "en": "ACCEPT THIS \"fart\"? [Y/N]\n---\nMade by the team \"Fool's Play\" for \"THE BMS OF FIGHTERS:\nNT -Twinkle Dream Traveler-\". \n\nVFX inspired by Kusanegi's song art (@tzlandcaocong on Twitter)\n\n\n\nMechanics used: Inverses",
+        "owo": "buddy why havent you left yet"
+    },
+    "crashTitle": {
+        "en": "Beatblock has crashed!",
+        "owo": "thank god"
+    },
+    "crashBody": {
+        "en": "oh god",
+        "owo": "get screwed"
+    },
+    "crashSavedTitle": {
+        "en": "Crash Report Saved!",
+        "owo": "cwash repowt saved! OwO"
+    },
+    "crashSavedBody": {
+        "en": "A crash log has been saved to \"@@1@@\".",
+        "owo": "a cwash wog has been saved to \"@@1@@\"."
+    },
+    "crashYes": {
+        "en": "Yes",
+        "owo": "yes"
+    },
+    "crashNo": {
+        "en": "No",
+        "owo": "no"
+    },
+    "keybindsAddNew": {
+        "en": "Add",
+        "owo": "Add~"
+    },
+    "keybindsPressKey": {
+        "en": "Press a Key...",
+        "owo": "Press a Key..."
+    },
+    "keybindspPressButton": {
+        "en": "Press a Button...",
+        "owo": "Press a Button..."
+    },
+    "keybindsResetDefault": {
+        "en": "Reset all keybinds in all categories",
+        "owo": "Reset aww keybwinds in all categories"
+    },
+    "keybindsJoystick": {
+        "en": "Joystick",
+        "owo": "Joystick"
+    },
+    "keybindsAddJoystick": {
+        "en": "Move a Joystick...",
+        "owo": "Move a Joystick..."
+    },
+    "tap1": {
+        "en": "Tap",
+        "owo": "Tap"
+    },
+    "tap2": {
+        "en": "Tap (Alt.)",
+        "owo": "Tap (Alt.)"
+    },
+    "pause": {
+        "en": "pause",
+        "owo": "pause"
+    },
+    "restart": {
+        "en": "restart",
+        "owo": "restart"
+    },
+    "select": {
+        "en": "select",
+        "owo": "select"
+    },
+    "menu_up": {
+        "en": "up",
+        "owo": "up"
+    },
+    "menu_left": {
+        "en": "left",
+        "owo": "left"
+    },
+    "menu_right": {
+        "en": "right",
+        "owo": "right"
+    },
+    "menu_down": {
+        "en": "down",
+        "owo": "down"
+    },
+    "move_up": {
+        "en": "up",
+        "owo": "up"
+    },
+    "move_left": {
+        "en": "left",
+        "owo": "left"
+    },
+    "move_right": {
+        "en": "right",
+        "owo": "right"
+    },
+    "move_down": {
+        "en": "down",
+        "owo": "down"
+    },
+    "modifier": {
+        "en": "modifier",
+        "owo": "modifier"
+    },
+    "save": {
+        "en": "save",
+        "owo": "save"
+    },
+    "delete": {
+        "en": "delete",
+        "owo": "delete"
+    },
+    "epilepsyWarning": {
+        "en": "Beatblock has some visuals that may trigger epilepsy or photosensitivity issues for players. Proceed with caution, and please check the accessibility options for settings to remove visual effects if needed.",
+        "owo": "Beatblock has some visuals that may trigger epilepsy or photosensitivity issues for players. Proceed with caution, and please check the accessibility options for settings to remove visual effects if needed."
+    },
+    "demoWarning": {
+        "en": "This game is currently still in a demo phase, and acts as a preview of a small section of the experience. The difficulty curve is not representative of the full game's planned scope & difficulty, and anything in this demo is subject to change between now and release.\nThank you for your understanding!",
+        "owo": "This game is currently still in a demo phase, and acts as a preview of a small section of the experience. The difficulty curve is not representative of the full game's planned scope & difficulty, and anything in this demo is subject to change between now and release.\nThank you for your understanding!"
+    },
+    "attentionPls": {
+        "en": "Attention! Please read carefully!",
+        "owo": "Attention! Please read carefully!"
+    }
+}

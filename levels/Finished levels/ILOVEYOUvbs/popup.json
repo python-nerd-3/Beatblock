@@ -1,0 +1,16 @@
+{
+  "width": 150,
+  "height": 76,
+  "fps": 12,
+  "frames": 4,
+  "states": [
+    {
+      "name": "popupcycle",
+      "frames": [
+        0,1,2,3
+      ],
+      "fps": 8,
+      "loop": true
+    }
+  ]
+}

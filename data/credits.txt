@@ -1,0 +1,75 @@
+-- Project Lead --
+DPS2004
+Cranky Bob
+
+-- Programming --
+DPS2004
+Rikri
+OblivionCreator
+wires
+moplo
+megaminerzero
+Samario
+
+-- Music -- 
+CV35W
+DPS2004
+apatisk
+
+-- Charting --
+DPS2004
+Rikri
+CV35W
+DawnAndNight
+
+-- UI Design --
+DPS2004
+Samario
+CV35W
+
+-- Art --
+DPS2004
+CV35W
+Samario
+
+-- Publishing Producer -- 
+Jeffrey Chiao (SKY HOUR WORKS)
+
+-- Outreach --
+CV35W
+
+-- Featured Musicians --
+answearing machine
+wookywok
+Glitch Cat
+Aspid Cat
+
+-- Playtesters --
+Random Guy JCI
+Colon
+Jill "oatmealine" Monoids
+Gavi Guy
+New Guy
+
+-- Other --
+LÖVE game engine developers
+Lua library authors
+Font authors
+
+Please see license.txt 
+and license_game.txt
+for more information.
+
+-- Special Thanks --
+Rhythm Doctor Lounge
+7th Beat Games
+The NotITG community
+The Playdate community
+The Heaven Studio development team
+DeadlySprinklez and wires
+(whos idea i accidentally stole whoops)
+
+And of course,
+YOU!
+
+!!bubbletabby!!

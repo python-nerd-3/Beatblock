@@ -1,0 +1,48 @@
+{
+  "width": 209,
+  "height": 207,
+  "fps": 4.26667,
+  "frames": 6,
+  "states": [
+    {
+      "name": "neutral",
+      "frames": [
+        0
+      ],
+      "fps": 4.26667,
+      "loop": true
+    },
+    {
+      "name": "talk1",
+      "frames": [
+        1,0
+      ],
+      "fps": 4.26667,
+      "loop": true
+    },
+    {
+      "name": "talk2",
+      "frames": [
+        2,0
+      ],
+      "fps": 4.26667,
+      "loop": true
+    },
+    {
+      "name": "up1",
+      "frames": [
+        4,3
+      ],
+      "fps": 4.26667,
+      "loop": true
+    },
+    {
+      "name": "up2",
+      "frames": [
+        5,3
+      ],
+      "fps": 4.26667,
+      "loop": true
+    }
+  ]
+}

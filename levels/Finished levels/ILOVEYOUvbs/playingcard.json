@@ -1,0 +1,16 @@
+{
+  "width": 75,
+  "height": 105,
+  "fps": 12,
+  "frames": 6,
+  "states": [
+    {
+      "name": "cardcycle",
+      "frames": [
+        0,1,2,3,4,5
+      ],
+      "fps": 8,
+      "loop": true
+    }
+  ]
+}
